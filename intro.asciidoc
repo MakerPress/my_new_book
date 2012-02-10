@@ -1,3 +1,7 @@
 == Makematics
 
 You need to learn math to make better stuff.
+
+==== Diagrams are helpful
+
+image::/images/bruce_springsteen1.jpg[scaledwidth="90%"]
