@@ -4,7 +4,7 @@ You need to learn math to make better stuff. Linear algebra is too hard.
 
 === Diagrams are helpful
 
-image::/images/bruce_springsteen1.jpg[scaledwidth="90%"]
+image::/images/frac_barnsley.png[scaledwidth="90%"]
 
 New creative fields like computer vision, generative graphics, data visualization, and 3d printing are hitting a plateau where they require more and more mathematical knowledge to do interesting work. Increasingly, these fields are becoming the bases of art and design. We've known for awhile know that programming is a vital part of art and design practice and we've increasingly figured out how to teach programming to artists and designers. However the advent of these new areas are drawing in math that's more advanced than your run-of-the-mill trigonometry and 2D geometry. Topics like like linear algebra, topology, graph theory, differential equations (and I'm sure many others that you can rattle off more easily than I) are becoming central both to doing daily work in these fields and, more importantly, to inventing, popularizing, and teaching the new creative tools that are rapidly arising.
 
