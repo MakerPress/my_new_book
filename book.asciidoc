@@ -1,3 +1,3 @@
-include::chinese.asciidoc[]
-
 include::intro.asciidoc[]
+
+include::chinese.asciidoc[]
