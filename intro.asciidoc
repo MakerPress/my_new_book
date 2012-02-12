@@ -1,5 +1,9 @@
 == Makematics
 
+
+Check it out!!!
+
+
 You need to learn math to make better stuff. Linear algebra is too hard.
 
 === Diagrams are helpful
