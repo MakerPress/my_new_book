@@ -1,6 +1,6 @@
 == Makematics
 
-You need to learn math to make better stuff.
+You need to learn math to make better stuff. Linear algebra is too hard.
 
 === Diagrams are helpful
 
